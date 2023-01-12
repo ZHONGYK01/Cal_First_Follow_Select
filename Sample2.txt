@@ -1,0 +1,4 @@
+S->eT|RT
+T->DR|^
+R->dR|^
+D->a|bd
